@@ -8,55 +8,41 @@ I'm a junior web developer based in London. After graduating from Bristol I spen
 SKILLS
 
  -- Object­ oriented principles and design
- 
  -- Test­ driven development
- 
  -- Pair programming
- 
  -- Ruby 2.0
- 
  -- Rails 4
- 
  -- PostgreSQL
- 
  -- Sinatra and DataMapper
- 
  -- Unit testing with RSpec and Jasmine
- 
  -- Integration testing with Capybara
- 
  -- FactoryGirl fixtures
- 
  -- Version control with git and GitHub
- 
  -- JavaScript, jQuery and CoffeeScript
- 
  -- HTML5 and ERB
- 
  -- CSS3, Sass and Twitter Bootstrap 3
- 
  -- WebSockets
- 
  -- User authentication and authorisation with bcrypt and Devise
- 
  -- Integration of APIs including Mailgun, Stripe, Paperclip, Amazon Associates API, and Twitter
 
 EDUCATION
 
 Makers Academy - Web Development Bootcamp: August—November 2013
 
-  Highly selective 12 week full-time course. 
-  Ruby, object oriented programming and software design
-  Full stack web development
-  Pair programming and teamwork
-  Final project: DOG EARED - a Rails 4 app using the Amazon API to allow users to tweet their three most 
-  'dog eared'   books -- the ones you keep coming back to, and live on in your mind even several years after
-  reading.  Each user    would select their three books, and then a custom url would be generated with their
-  selection that would be         hardcoded into the tweet, the page also included and other analytics on all 
-  users choices and a constantly updating window showing the trending tweets with the chosen hashtag (#dogeared).
+Highly selective 12 week full-time course. 
+Ruby, object oriented programming and software design
+Full stack web development
+Pair programming and teamwork
+Final project: DOG EARED - a Rails 4 app using the Amazon API to allow users to tweet their three most 
+'dog eared'   books -- the ones you keep coming back to, and live on in your mind even several years after
+reading.  Each user    would select their three books, and then a custom url would be generated with their
+selection that would be         hardcoded into the tweet, the page also included and other analytics on all 
+users choices and a constantly updating window showing the trending tweets with the chosen hashtag (#dogeared).
   
 University of Bristol ~ BA Hons, History
+
 A levels: Mathematics A, History A, French A, Biology A
+
 Languages: English, French, Basic Spanish.
 
 EXPERIENCE
