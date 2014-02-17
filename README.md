@@ -40,9 +40,7 @@ selection that would be         hardcoded into the tweet, the page also included
 users choices and a constantly updating window showing the trending tweets with the chosen hashtag (#dogeared).
   
 University of Bristol ~ BA Hons, History
-
 A levels: Mathematics A, History A, French A, Biology A
-
 Languages: English, French, Basic Spanish.
 
 EXPERIENCE
