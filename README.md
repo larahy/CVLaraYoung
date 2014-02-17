@@ -8,36 +8,50 @@ I'm a junior web developer based in London. After graduating from Bristol I spen
 SKILLS
 
  -- Object­ oriented principles and design
+ 
  -- Test­ driven development
+ 
  -- Pair programming
+ 
  -- Ruby 2.0
+ 
  -- Rails 4
+ 
  -- PostgreSQL 
+ 
  -- Sinatra and DataMapper
+ 
  -- Unit testing with RSpec and Jasmine
+ 
  -- Integration testing with Capybara
+ 
  -- FactoryGirl fixtures
+ 
  -- Version control with git and GitHub
+ 
  -- JavaScript, jQuery and CoffeeScript
+ 
  -- HTML5 and ERB
+ 
  -- CSS3, Sass and Twitter Bootstrap 3
+ 
  -- WebSockets
+ 
  -- User authentication and authorisation with bcrypt and Devise
+ 
  -- Integration of APIs including Mailgun, Stripe, Paperclip, Amazon Associates API, and Twitter
+ 
 
 EDUCATION
 
+
 Makers Academy - Web Development Bootcamp: August—November 2013
 
-Highly selective 12 week full-time course. 
-Ruby, object oriented programming and software design
-Full stack web development
-Pair programming and teamwork
+Highly selective 12 week full-time course.
 Final project: DOG EARED - a Rails 4 app using the Amazon API to allow users to tweet their three most 
-'dog eared'   books -- the ones you keep coming back to, and live on in your mind even several years after
-reading.  Each user    would select their three books, and then a custom url would be generated with their
-selection that would be         hardcoded into the tweet, the page also included and other analytics on all 
-users choices and a constantly updating window showing the trending tweets with the chosen hashtag (#dogeared).
+'dog eared' books -- the ones you keep coming back to, and live on in your mind even several years after
+reading. Each user would select their titles, and then a custom url would be generated with their
+selection that would be hardcoded into the tweet to be read by their followers, the page also included analytics on all users choices and a constantly updating window showing the trending tweets with the chosen hashtag (#dogeared).
   
 University of Bristol ~ BA Hons, History  
 
@@ -46,6 +60,7 @@ A levels: Mathematics A, History A, French A, Biology A
 Languages: English, French, Basic Spanish.
 
 EXPERIENCE
+
 2012-2013 - Grace Belgravia, London – Arts and Culture Curator.
 
 I was responsible for designing and populating the website, thus, my interest in web-development was born! 
@@ -66,12 +81,14 @@ agencies abroad.
 
 2007, 2008, 2009 - The London Original Print Fair 
 
+
 2 weeks acting as a translator and helping set up prior to the fair, which is the longest running specialist print
 fair in the world. A great education in all periods of printmaking including the early woodcuts of Dürer, and a
 wonderful opportunity to work with the fair’s director Helen Rosslyn, previously a member of the Print department at
 Christies. 
 
 2006 - Samara Private Game Reserve, South Africa 
+
 
 The six months spent at this new game reserve were enormously challenging, but also extremely fulfilling.  Given 
 the small size of the game reserve at the time I had an active role in every aspect of hospitality.  The customary
