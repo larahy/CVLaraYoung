@@ -35,7 +35,7 @@ I'm a junior web developer based in London. After graduating as a Historian from
 [Click for website](http://glacial-basin-8458.herokuapp.com/)
 
 [Hello Brenda](https://github.com/larahy/HelloBrenda): App to mimick an online instagram where users can post images, upvote and downvote them, and filter by tags.
- 
+
 [Friday Stripes](https://github.com/larahy/FridayStripes)This application was built in Sinatra and uses the Instagram API to scrape images with the hashtag:fridaystripes
 [Click for website](www.fridaystripes.co.uk)
 
