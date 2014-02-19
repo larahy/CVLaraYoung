@@ -5,22 +5,22 @@ Curriculum Vitae
 
 I'm a junior web developer based in London. After graduating as a Historian from Bristol I spent several years in the publishing industry at literary agents in London and New York. Concluding that I'd like to implement my own ideas, I decided to develop my technical skills, and enrolled at [Makers Academy](http://www.makersacademy.com/), a highly intensive 12 week course. 
 
-## Ruby Skills
+ ### Ruby Skills
  * Object­ oriented principles and design 
  * Pair programming
  * Rails 4 
  * PostgreSQL 
+ * Integration of APIs including Mailgun, Stripe, Paperclip, Amazon Associates, and Twitter
  * Sinatra and DataMapper
  * Version control with git and GitHub
  * User authentication and authorisation with bcrypt and Devise
- * Integration of APIs including Mailgun, Stripe, Paperclip, Amazon Associates API, and Twitter
-
- ## TDD
- * Unit testing with RSpec and Jasmine 
- * Integration testing with Capybara
+ 
+ ### TDD
+ * Unit testing with RSpec and Jasmine
  * FactoryGirl fixtures
+ * Integration testing with Capybara
 
- ## Front End Developement
+ ### Front End Developement
  * JavaScript, jQuery and CoffeeScript
  * HTML5 and ERB
  * CSS3, Sass and Twitter Bootstrap 3
