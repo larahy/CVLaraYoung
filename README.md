@@ -30,9 +30,12 @@ I'm a junior web developer based in London. After graduating as a Historian from
 
 [Dog Eared](https://github.com/TomGroombridge/book_project): a Rails 4 app using the Amazon API to allow users to build a custom URl to tweet their three most'dog eared' books. 
 [Click for website](www.dogearedpages.me)
+
 [Week 9 Test](https://github.com/larahy/W9Test): Task was to mimick a story sharing website like Reddit. Extended to include photographs, and the option to order and pay for prints using Stripe. Seeded the database from the excellent [Vivien Maier](http://www.vivianmaier.com/)! 
 [Click for website](http://glacial-basin-8458.herokuapp.com/)
-[Hello Brenda](https://github.com/larahy/HelloBrenda): App to mimick an online instagram where users can post images, upvote and downvote them, and filter by tags. 
+
+[Hello Brenda](https://github.com/larahy/HelloBrenda): App to mimick an online instagram where users can post images, upvote and downvote them, and filter by tags.
+ 
 [Friday Stripes](https://github.com/larahy/FridayStripes)This application was built in Sinatra and uses the Instagram API to scrape images with the hashtag:fridaystripes
 [Click for website](www.fridaystripes.co.uk)
 
