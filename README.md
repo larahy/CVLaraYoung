@@ -1,7 +1,5 @@
-Curriculum Vitae
+Curriculum Vitae for Lara Young
 ===============
-
-# LARA YOUNG 
 
 I'm a junior web developer based in London. After graduating as a Historian from Bristol I spent several years in the publishing industry at literary agents in London and New York. Concluding that I'd like to implement my own ideas, I decided to develop my technical skills, and enrolled at [Makers Academy](http://www.makersacademy.com/), a highly intensive 12 week course. 
 
@@ -36,7 +34,7 @@ I'm a junior web developer based in London. After graduating as a Historian from
 
 [Hello Brenda](https://github.com/larahy/HelloBrenda): App to mimick an online instagram where users can post images, upvote and downvote them, and filter by tags.
 
-[Friday Stripes](https://github.com/larahy/FridayStripes)This application was built in Sinatra and uses the Instagram API to scrape images with the hashtag:fridaystripes
+[Friday Stripes](https://github.com/larahy/FridayStripes): This application was built in Sinatra and uses the Instagram API to scrape images with the hashtag:fridaystripes.
 [Click for website](www.fridaystripes.co.uk)
 
 
